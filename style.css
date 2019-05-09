@@ -1,0 +1,73 @@
+nav {
+    background-color:white;
+    margin: 1ch 1ch 2ch 2ch;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1ch
+    
+}
+body{
+    background-color: ghostwhite;
+    font-style: normal;
+}
+figcaption {
+    color: palevioletred;
+    margin-lef:10;
+}
+.monster{
+margin-left: 20%;
+padding-right: 9%;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    text-align: right;
+  margin-left: 53%;
+  padding-top: 1%;
+
+}
+
+li {
+    display:inline-block;
+}
+
+h4 {
+    letter-spacing: 3px;
+    
+}
+
+h5 {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+button{
+    color: white;
+    background-color: rgb(231, 124, 142);
+    border: none;
+    padding: 10px;
+    
+}
+    
+.pro {
+    margin-right:50%;
+    
+}
+h3{
+    letter-spacing: 0.2cm
+}
+
+.icon{
+    text-align: left;
+}
+.main{
+    
+    margin-left:30%;
+    margin-right:25%;
+
+}
+.side{
+    text-align: right;
+}
